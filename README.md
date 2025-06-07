@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samu-dimartino11
+- 👋 Hi, I’m @samuele-dimartino
 - 👀 I’m interested in everything about data and i love basketball!
 - 🌱 After Mathematics studies, I’m currently learning something about the Data Science's world
 - 💞️ I would like to collaborate on analytics project
